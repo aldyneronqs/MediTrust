@@ -253,4 +253,12 @@ meditrust/
 
 ## License
 
+
+
+Contract ID: CC7MMH35JSTEYQQKKWPBCL34SSPVLO5AIFDI7IRDLVGWBRUEJABLF5GB
+
+Stellar Expert: https://stellar.expert/explorer/testnet/contract/CC7MMH35JSTEYQQKKWPBCL34SSPVLO5AIFDI7IRDLVGWBRUEJABLF5GB
+
+![alt text](image.png)
+
 MIT © 2026 MediTrust Contributors
